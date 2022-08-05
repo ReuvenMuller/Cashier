@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Question_03">
+        <file>a.png</file>
+        <file>c.png</file>
+        <file>f.png</file>
+        <file>n.png</file>
+        <file>r.png</file>
+        <file>x.png</file>
+        <file>STOCK.text</file>
+    </qresource>
+</RCC>
